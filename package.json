@@ -1,0 +1,28 @@
+{
+  "name": "Curriculum Vitae",
+  "version": "1.0.0",
+  "description": "Haoyang Gao's Curriculum Vitae apply for Front-end Dev Engineer",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Gaohaoyang/cv.git"
+  },
+  "keywords": [
+    "cv",
+    "resume",
+    "Front-end"
+  ],
+  "author": "Gaohaoyang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Gaohaoyang/cv/issues"
+  },
+  "homepage": "https://github.com/Gaohaoyang/cv",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-ruby-sass": "^1.0.5"
+  }
+}
