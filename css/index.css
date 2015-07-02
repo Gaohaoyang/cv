@@ -1,8 +1,11 @@
 #avatar {
   width: 256px;
   height: 256px;
-  border: 5px solid #67949D;
+  border: 10px solid #67949D;
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
   -o-border-radius: 50%;
   border-radius: 50%; }
+
+#name {
+  margin: 0.5em 0; }
