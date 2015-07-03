@@ -10,6 +10,12 @@
 #name {
   margin: 0.5em 0; }
 
+.reveal .title {
+  margin-bottom: 1.1em; }
+
+.reveal .date {
+  color: #ccc; }
+
 .imgleft {
   height: 240px;
   float: left; }
@@ -22,3 +28,27 @@
 
 .clearfix {
   overflow: hidden; }
+
+.reveal .l1 {
+  font-size: 2em; }
+
+.reveal .l1 {
+  font-size: 2em; }
+
+.reveal .l2 {
+  font-size: 1.5em; }
+
+.reveal .l3 {
+  font-size: 1.2em; }
+
+.reveal .l4 {
+  font-size: 1em; }
+
+.reveal .l5 {
+  font-size: 0.7em; }
+
+.reveal .l6 {
+  font-size: 0.5em; }
+
+.reveal ul {
+  font-size: 0.7em; }
