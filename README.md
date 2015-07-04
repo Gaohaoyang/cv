@@ -1,5 +1,5 @@
 # cv
 
-Haoyang Gao's Curriculum Vitae
+Gao Haoyang's Curriculum Vitae
 
 http://gaohaoyang.github.io/cv/
